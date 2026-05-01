@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "launcher_news": "Welcome to Vertex Launcher! Blood Red Client is now live.",
+  "mods": [
+    {
+      "name": "BrainClient-1.0.jar",
+      "url": "https://raw.githubusercontent.com/ayan293/vertexdata/main/mods/BrainClient-1.0.jar",
+      "sha1": "c1f9e0b56aa571bdc8a7c8b197eb1ec129892065"
+    },
+    {
+      "name": "OptiFine_1.8.9_HD_U_L5.jar",
+      "url": "https://raw.githubusercontent.com/ayan293/vertexdata/main/mods/OptiFine_1.8.9_HD_U_L5.jar",
+      "sha1": "dcab4849a24ccad5a6a3496c67bc5a88411d2a35"
+    }
+  ]
+}
